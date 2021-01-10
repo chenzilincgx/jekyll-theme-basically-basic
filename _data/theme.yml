@@ -36,8 +36,8 @@ google_fonts:
 navigation_pages:
   - about.md
   ---
-title: "关于我"
-layout: about
+title： "关于我"
+layout： about
   ---
 ## 湛江首席不知名摄影师
 ## 中山大学南方学院 文学与传媒学院 2020级学生
