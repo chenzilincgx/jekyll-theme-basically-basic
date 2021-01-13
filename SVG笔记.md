@@ -1,6 +1,7 @@
 ---
 title: SVG笔记
 layout: tags
+image: assets/images/svg.jpg
 permalink: /tag/SVG笔记/
 taxonomy: SVG笔记
 ---
