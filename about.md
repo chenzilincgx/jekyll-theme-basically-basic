@@ -1,6 +1,7 @@
 ---
 title: "关于我"
 layout: about
+image: assets/images/about.jpg
 ---
 # 陈梓霖
 ## 网络与新媒体专业20级学生
